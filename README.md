@@ -92,7 +92,7 @@ grunt.initConfig({
 				tag: ''
 			},
 			src: 'src/index.html',
-			dest: 'dist/index.html']
+			dest: 'dist/index.html'
 		}
 	}
 });
